@@ -9,13 +9,13 @@ sites:
     url: https://bibliogram.esmailelbob.xyz
   - name: Libreddit
     url: https://libreddit.esmailelbob.xyz
-  - name: Google
+  - name: Invidious
     url: https://invidious.esmailelbob.xyz
-  - name: Google
+  - name: RSS-Bridge
     url: https://rss-bridge.esmailelbob.xyz
-  - name: Google
+  - name: Searx
     url: https://searx.esmailelbob.xyz
-  - name: Google
+  - name: Nitter
     url: https://nitter.esmailelbob.xyz
     
 status-website:
