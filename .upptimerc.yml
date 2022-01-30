@@ -1,42 +1,86 @@
 # Change these first
 owner: EsmailELBoBDev2 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+assignees: # Users to assign downtime issues (optional)
+  - EsmailELBoBDev2
 
 sites:
   - name: Main site
     url: https://esmailelbob.xyz
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: Bibliogram
     url: https://bibliogram.esmailelbob.xyz
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: Libreddit
     url: https://libreddit.esmailelbob.xyz
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: Invidious
     url: https://invidious.esmailelbob.xyz
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: RSS-Bridge
     url: https://rss-bridge.esmailelbob.xyz
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: Searx
     url: https://searx.esmailelbob.xyz
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: Nitter
     url: https://nitter.esmailelbob.xyz
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: WriteFreely
     url: $WRITEFREELY
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: Pixelfed
     url: $PIXELFED
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: Nextcloud
     url: $NEXTCLOUD
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: Snikket
     url: $SNIKKET
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: Mastodon
     url: $MASTODON
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: MailCow
     url: $MAILCOW
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
   - name: Pi-Hole
     url: $PIHOLE
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
 
-status-website:
+status-website: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.esmailelbob.xyz
-  # baseUrl: /your-repo-name
+  # cname: status.esmailelbob.xyz
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
