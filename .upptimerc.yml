@@ -77,20 +77,28 @@ sites:
       - 200
 
 status-website:
-  theme: ocean
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.esmailelbob.xyz
+  #cname: status.esmailelbob.xyz
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status Page
+  introTitle: "**Status Page**"
+  introMessage: If you have a hard time trying to connect to a website (*hosted by me ofc!*) check it here to know if it's a problem in my end or your end — Feel free to report any bugs/weird behaviors
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+notifications:
+  NOTIFICATION_EMAIL_SMTP: true
+  NOTIFICATION_EMAIL_SMTP_PORT: 587
+  NOTIFICATION_EMAIL_SMTP_HOST: smtp.mailgun.org
+  NOTIFICATION_EMAIL_SMTP_USERNAME: $SMTPUSERNAME
+  NOTIFICATION_EMAIL_SMTP_PASSWORD: $SMTPPASSWORD
+  NOTIFICATION_EMAIL: true
+  NOTIFICATION_EMAIL_FROM: $FROMEMAIL
+  NOTIFICATION_EMAIL_TO: $TOEMAIL
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
