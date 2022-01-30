@@ -17,7 +17,21 @@ sites:
     url: https://searx.esmailelbob.xyz
   - name: Nitter
     url: https://nitter.esmailelbob.xyz
-    
+  - name: WriteFreely
+    url: $WRITEFREELY
+  - name: Pixelfed
+    url: $PIXELFED
+  - name: Nextcloud
+    url: $NEXTCLOUD
+  - name: Snikket
+    url: $SNIKKET
+  - name: Mastodon
+    url: $MASTODON
+  - name: MailCow
+    url: $MAILCOW
+  - name: Pi-Hole
+    url: $PIHOLE
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
