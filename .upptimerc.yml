@@ -100,5 +100,9 @@ notifications:
   NOTIFICATION_EMAIL: true
   NOTIFICATION_EMAIL_FROM: $FROMEMAIL
   NOTIFICATION_EMAIL_TO: $TOEMAIL
+  NOTIFICATION_DISCORD: true
+  NOTIFICATION_DISCORD_WEBHOOK: true
+  NOTIFICATION_DISCORD_WEBHOOK_URL: $DISCORDWEBHOOK
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
