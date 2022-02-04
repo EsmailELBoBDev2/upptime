@@ -5,43 +5,43 @@ assignees: # Users to assign downtime issues (optional)
   - EsmailELBoBDev2
 
 sites:
-  - name: Main site
+  - name: Main site - https://esmailelbob.xyz
     url: https://esmailelbob.xyz
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
-  - name: Bibliogram
+  - name: Bibliogram - https://bibliogram.esmailelbob.xyz
     url: https://bibliogram.esmailelbob.xyz
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
-  - name: Libreddit
+  - name: Libreddit - https://libreddit.esmailelbob.xyz
     url: https://libreddit.esmailelbob.xyz
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
-  - name: Invidious
+  - name: Invidious - https://invidious.esmailelbob.xyz
     url: https://invidious.esmailelbob.xyz
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
-  - name: RSS-Bridge
+  - name: RSS-Bridge - https://rss-bridge.esmailelbob.xyz
     url: https://rss-bridge.esmailelbob.xyz
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
-  - name: Searx
+  - name: Searx - https://searx.esmailelbob.xyz
     url: https://searx.esmailelbob.xyz
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
-  - name: Nitter
+  - name: Nitter - https://nitter.esmailelbob.xyz
     url: https://nitter.esmailelbob.xyz
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
-  - name: WriteFreely
-    url: $WRITEFREELY
+  - name: WriteFreely - https://blog.esmailelbob.xyz
+    url: https://blog.esmailelbob.xyz
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -60,8 +60,8 @@ sites:
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
-  - name: Mastodon
-    url: $MASTODON
+  - name: Mastodon - https://social.esmailelbob.xyz/
+    url: https://social.esmailelbob.xyz/@esmail
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -85,12 +85,14 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Page
   introTitle: "**Status Page**"
-  introMessage: If you have a hard time trying to connect to a website (*hosted by me ofc!*) check it here to know if it's a problem on my end or your end — Feel free to report any bugs/weird behaviors
+  introMessage: If you have a hard time trying to connect to a website (*hosted by me ofc!*) check it here to know if it's a problem on my end or your end — Feel free to report any bugs/weird behaviors — Please consider a donation so i can keep these services running [https://donate.esmailelbob.xyz/](https://donate.esmailelbob.xyz/)!
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Donate
+      href: https://donate.esmailelbob.xyz/
 notifications:
   NOTIFICATION_EMAIL_SMTP: true
   NOTIFICATION_EMAIL_SMTP_PORT: 587
