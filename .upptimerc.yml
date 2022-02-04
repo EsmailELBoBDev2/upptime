@@ -85,7 +85,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Page
   introTitle: "**Status Page**"
-  introMessage: If you have a hard time trying to connect to a website (*hosted by me ofc!*) check it here to know if it's a problem on my end or your end — Feel free to report any bugs/weird behaviors — Please consider a donation so i can keep these services running: [*https://donate.esmailelbob.xyz/*](https://donate.esmailelbob.xyz/)
+  introMessage: "If you have a hard time trying to connect to a website (*hosted by me ofc!*) check it here to know if it's a problem on my end or your end — Feel free to report any bugs/weird behaviors — Please consider a donation so i can keep these services running: [*https://donate.esmailelbob.xyz/*](https://donate.esmailelbob.xyz/)"
   navbar:
     - title: Status
       href: /
