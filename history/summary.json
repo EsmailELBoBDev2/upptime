@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/esmailelbob.xyz",
     "slug": "main-site-https-esmailelbob-xyz",
     "status": "down",
-    "uptime": "97.79%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "97.79%",
-    "uptimeYear": "97.79%",
+    "uptime": "62.12%",
+    "uptimeDay": "62.12%",
+    "uptimeWeek": "62.12%",
+    "uptimeMonth": "62.12%",
+    "uptimeYear": "62.12%",
     "time": 460,
     "timeDay": 460,
     "timeWeek": 460,
     "timeMonth": 460,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2022-02-04": 6
+      "2022-02-05": 25,
+      "2022-02-04": 147
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/bibliogram.esmailelbob.xyz",
     "slug": "bibliogram-https-bibliogram-esmailelbob-xyz",
     "status": "down",
-    "uptime": "97.97%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "97.97%",
-    "uptimeYear": "97.97%",
+    "uptime": "62.24%",
+    "uptimeDay": "62.24%",
+    "uptimeWeek": "62.24%",
+    "uptimeMonth": "62.24%",
+    "uptimeYear": "62.24%",
     "time": 167,
     "timeDay": 167,
     "timeWeek": 167,
     "timeMonth": 167,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2022-02-04": 6
+      "2022-02-05": 25,
+      "2022-02-04": 146
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://favicons.githubusercontent.com/libreddit.esmailelbob.xyz",
     "slug": "libreddit-https-libreddit-esmailelbob-xyz",
     "status": "down",
-    "uptime": "98.15%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "98.15%",
+    "uptime": "62.35%",
+    "uptimeDay": "62.35%",
+    "uptimeWeek": "62.35%",
+    "uptimeMonth": "62.35%",
+    "uptimeYear": "62.35%",
     "time": 812,
     "timeDay": 812,
     "timeWeek": 812,
     "timeMonth": 812,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2022-02-04": 5
+      "2022-02-05": 25,
+      "2022-02-04": 146
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://favicons.githubusercontent.com/invidious.esmailelbob.xyz",
     "slug": "invidious-https-invidious-esmailelbob-xyz",
     "status": "down",
-    "uptime": "95.83%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "95.83%",
-    "uptimeYear": "95.83%",
+    "uptime": "60.88%",
+    "uptimeDay": "60.88%",
+    "uptimeWeek": "60.88%",
+    "uptimeMonth": "60.88%",
+    "uptimeYear": "60.88%",
     "time": 348,
     "timeDay": 348,
     "timeWeek": 348,
     "timeMonth": 348,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-02-04": 12
+      "2022-02-05": 25,
+      "2022-02-04": 152
     }
   },
   {
@@ -85,18 +89,19 @@
     "icon": "https://favicons.githubusercontent.com/rss-bridge.esmailelbob.xyz",
     "slug": "rss-bridge-https-rss-bridge-esmailelbob-xyz",
     "status": "down",
-    "uptime": "98.51%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "98.51%",
+    "uptime": "62.58%",
+    "uptimeDay": "62.58%",
+    "uptimeWeek": "62.58%",
+    "uptimeMonth": "62.58%",
+    "uptimeYear": "62.58%",
     "time": 407,
     "timeDay": 407,
     "timeWeek": 407,
     "timeMonth": 407,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2022-02-04": 4
+      "2022-02-05": 25,
+      "2022-02-04": 144
     }
   },
   {
@@ -105,18 +110,19 @@
     "icon": "https://favicons.githubusercontent.com/searx.esmailelbob.xyz",
     "slug": "searx-https-searx-esmailelbob-xyz",
     "status": "down",
-    "uptime": "90.97%",
-    "uptimeDay": "90.97%",
-    "uptimeWeek": "90.97%",
-    "uptimeMonth": "90.97%",
-    "uptimeYear": "90.97%",
+    "uptime": "57.79%",
+    "uptimeDay": "57.79%",
+    "uptimeWeek": "57.79%",
+    "uptimeMonth": "57.79%",
+    "uptimeYear": "57.79%",
     "time": 167,
     "timeDay": 167,
     "timeWeek": 167,
     "timeMonth": 167,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2022-02-04": 26
+      "2022-02-05": 25,
+      "2022-02-04": 166
     }
   },
   {
@@ -125,18 +131,19 @@
     "icon": "https://favicons.githubusercontent.com/nitter.esmailelbob.xyz",
     "slug": "nitter-https-nitter-esmailelbob-xyz",
     "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.88%",
+    "uptime": "62.82%",
+    "uptimeDay": "62.82%",
+    "uptimeWeek": "62.82%",
+    "uptimeMonth": "62.82%",
+    "uptimeYear": "62.82%",
     "time": 178,
     "timeDay": 178,
     "timeWeek": 178,
     "timeMonth": 178,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2022-02-04": 3
+      "2022-02-05": 25,
+      "2022-02-04": 143
     }
   },
   {
@@ -145,18 +152,19 @@
     "icon": "https://favicons.githubusercontent.com/blog.esmailelbob.xyz",
     "slug": "write-freely-https-blog-esmailelbob-xyz",
     "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
+    "uptime": "62.93%",
+    "uptimeDay": "62.93%",
+    "uptimeWeek": "62.93%",
+    "uptimeMonth": "62.93%",
+    "uptimeYear": "62.93%",
     "time": 246,
     "timeDay": 246,
     "timeWeek": 246,
     "timeMonth": 246,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2022-02-04": 3
+      "2022-02-05": 25,
+      "2022-02-04": 143
     }
   },
   {
@@ -165,18 +173,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pixelfed",
     "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptime": "97.42%",
+    "uptimeDay": "88.37%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "97.42%",
     "time": 273,
-    "timeDay": 322,
+    "timeDay": 294,
     "timeWeek": 273,
     "timeMonth": 273,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-02-04": 2,
+      "2022-02-05": 25,
+      "2022-02-04": 142,
       "2022-01-30": 26
     }
   },
@@ -186,18 +195,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "97.77%",
+    "uptimeDay": "88.41%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "97.77%",
     "time": 674,
-    "timeDay": 723,
+    "timeDay": 692,
     "timeWeek": 674,
     "timeMonth": 674,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2022-02-04": 2
+      "2022-02-05": 25,
+      "2022-02-04": 142
     }
   },
   {
@@ -206,18 +216,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "snikket",
     "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
+    "uptime": "96.95%",
+    "uptimeDay": "88.44%",
+    "uptimeWeek": "96.95%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "96.95%",
     "time": 173,
-    "timeDay": 186,
+    "timeDay": 170,
     "timeWeek": 173,
     "timeMonth": 173,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2022-02-04": 1,
+      "2022-02-05": 25,
+      "2022-02-04": 141,
       "2022-02-02": 25,
       "2022-01-30": 37
     }
@@ -228,18 +239,19 @@
     "icon": "https://favicons.githubusercontent.com/social.esmailelbob.xyz",
     "slug": "mastodon-https-social-esmailelbob-xyz",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "63.39%",
+    "uptimeDay": "63.39%",
+    "uptimeWeek": "63.39%",
+    "uptimeMonth": "63.39%",
+    "uptimeYear": "63.39%",
     "time": 412,
     "timeDay": 412,
     "timeWeek": 412,
     "timeMonth": 412,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2022-02-04": 1
+      "2022-02-05": 25,
+      "2022-02-04": 141
     }
   },
   {
@@ -248,18 +260,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail-cow",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.79%",
+    "uptimeDay": "88.52%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "97.79%",
+    "uptimeYear": "97.79%",
     "time": 184,
-    "timeDay": 214,
+    "timeDay": 176,
     "timeWeek": 184,
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2022-02-04": 0
+      "2022-02-05": 25,
+      "2022-02-04": 140
     }
   },
   {
@@ -273,11 +286,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 166,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "time": 135,
+    "timeDay": 140,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   }
 ]
