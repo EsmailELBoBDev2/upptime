@@ -7,72 +7,77 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: Main site - https://esmailelbob.xyz
     url: https://esmailelbob.xyz
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: Bibliogram - https://bibliogram.esmailelbob.xyz
     url: https://bibliogram.esmailelbob.xyz
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: Libreddit - https://libreddit.esmailelbob.xyz
     url: https://libreddit.esmailelbob.xyz
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: Invidious - https://invidious.esmailelbob.xyz
     url: https://invidious.esmailelbob.xyz
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: RSS-Bridge - https://rss-bridge.esmailelbob.xyz
     url: https://rss-bridge.esmailelbob.xyz
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: Searx - https://searx.esmailelbob.xyz
     url: https://searx.esmailelbob.xyz
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: Nitter - https://nitter.esmailelbob.xyz
     url: https://nitter.esmailelbob.xyz
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: WriteFreely - https://blog.esmailelbob.xyz
     url: https://blog.esmailelbob.xyz
-    maxResponseTime: 5000
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+  - name: Gitea - https://git.esmailelbob.xyz
+    url: https://git.esmailelbob.xyz
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: Pixelfed
     url: $PIXELFED
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: Nextcloud
     url: $NEXTCLOUD
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: Snikket
     url: $SNIKKET
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: Mastodon - https://social.esmailelbob.xyz/
     url: https://social.esmailelbob.xyz/@esmail
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: MailCow
     url: $MAILCOW
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: Pi-Hole
     url: $PIHOLE
-    maxResponseTime: 5000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 200
 
