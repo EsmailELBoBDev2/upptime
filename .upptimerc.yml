@@ -40,7 +40,7 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-   - name: Lingva - https://lingva.esmailelbob.xyz
+  - name: Lingva - https://lingva.esmailelbob.xyz
     url: https://lingva.esmailelbob.xyz
     maxResponseTime: 10000
     expectedStatusCodes:
