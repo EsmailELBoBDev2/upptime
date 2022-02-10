@@ -40,6 +40,26 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+   - name: Lingva - https://lingva.esmailelbob.xyz
+    url: https://lingva.esmailelbob.xyz
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+  - name: Whoogle - https://whoogle.esmailelbob.xyz
+    url: https://whoogle.esmailelbob.xyz
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+  - name: Libre Translate - https://libretranslate.esmailelbob.xyz
+    url: https://nitter.esmailelbob.xyz
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+  - name: rimgo - https://rimgo.esmailelbob.xyz
+    url: https://rimgo.esmailelbob.xyz
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: WriteFreely - https://blog.esmailelbob.xyz
     url: https://blog.esmailelbob.xyz
     maxResponseTime: 10000
