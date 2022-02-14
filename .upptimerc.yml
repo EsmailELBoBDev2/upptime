@@ -60,6 +60,11 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: Scribe - https://scribe.esmailelbob.xyz/
+    url: https://scribe.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: WriteFreely - https://blog.esmailelbob.xyz
     url: https://blog.esmailelbob.xyz
     maxResponseTime: 10000
