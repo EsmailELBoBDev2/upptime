@@ -51,7 +51,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Libre Translate - https://libretranslate.esmailelbob.xyz
-    url: https://nitter.esmailelbob.xyz
+    url: https://libretranslate.esmailelbob.xyz
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
