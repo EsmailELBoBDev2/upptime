@@ -339,18 +339,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "snikket",
     "status": "up",
-    "uptime": "97.83%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "97.83%",
+    "uptime": "97.86%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "97.86%",
     "time": 318,
     "timeDay": 234,
     "timeWeek": 296,
     "timeMonth": 318,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2022-02-16": 7,
       "2022-02-15": 17,
       "2022-02-13": 94,
       "2022-02-09": 20,
@@ -409,9 +408,9 @@
     "url": "$PIHOLE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pi-hole",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -420,6 +419,8 @@
     "timeWeek": 202,
     "timeMonth": 157,
     "timeYear": 157,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-16": 0
+    }
   }
 ]
