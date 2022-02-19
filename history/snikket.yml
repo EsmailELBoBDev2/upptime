@@ -1,7 +1,7 @@
 url: $SNIKKET
-status: up
-code: 200
-responseTime: 259
-lastUpdated: 2022-02-19T07:23:41.251Z
+status: down
+code: 502
+responseTime: 188
+lastUpdated: 2022-02-19T11:30:13.347Z
 startTime: Sun Jan 30 2022 19:45:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
