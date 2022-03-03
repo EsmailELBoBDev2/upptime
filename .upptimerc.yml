@@ -46,7 +46,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Whoogle - https://whoogle.esmailelbob.xyz
-    url: https://whoogle.esmailelbob.xyz/home
+    url: http://whoogle.esmailelbob.xyz/home
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
