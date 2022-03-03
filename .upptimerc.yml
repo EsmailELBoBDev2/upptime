@@ -49,7 +49,7 @@ sites:
     url: http://whoogle.esmailelbob.xyz/home
     maxResponseTime: 10000
     expectedStatusCodes:
-      - 200
+      - 301
   - name: Libre Translate - https://libretranslate.esmailelbob.xyz
     url: https://libretranslate.esmailelbob.xyz
     maxResponseTime: 10000
