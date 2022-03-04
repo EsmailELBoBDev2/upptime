@@ -123,17 +123,14 @@ status-website:
     - title: Donate
       href: https://donate.esmailelbob.xyz/
 notifications:
+  NOTIFICATION_EMAIL: true
   NOTIFICATION_EMAIL_SMTP: true
   NOTIFICATION_EMAIL_SMTP_PORT: 587
   NOTIFICATION_EMAIL_SMTP_HOST: smtp.mailgun.org
   NOTIFICATION_EMAIL_SMTP_USERNAME: $SMTPUSERNAME
   NOTIFICATION_EMAIL_SMTP_PASSWORD: $SMTPPASSWORD
-  NOTIFICATION_EMAIL: true
   NOTIFICATION_EMAIL_FROM: $FROMEMAIL
   NOTIFICATION_EMAIL_TO: $TOEMAIL
-  NOTIFICATION_DISCORD: true
-  NOTIFICATION_DISCORD_WEBHOOK: true
-  NOTIFICATION_DISCORD_WEBHOOK_URL: $DISCORDWEBHOOK
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
