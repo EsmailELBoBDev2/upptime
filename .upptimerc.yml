@@ -75,6 +75,16 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: Librarian - https://librarian.esmailelbob.xyz
+    url: https://librarian.esmailelbob.xyz
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+  - name: Reddit Top RSS - https://rss-reddit.esmailelbob.xyz/
+    url: https://rss-reddit.esmailelbob.xyz/?subreddit=memes
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: Pixelfed
     url: $PIXELFED
     maxResponseTime: 10000
@@ -102,6 +112,11 @@ sites:
       - 200
   - name: Pi-Hole
     url: $PIHOLE
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+  - name: Pastefy - https://pastefy.esmailelbob.xyz
+    url: $PASTEFY
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
