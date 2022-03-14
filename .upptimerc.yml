@@ -131,10 +131,12 @@ status-website:
   name: Status Page
   introTitle: "**Status Page**"
   introMessage: |
-    If you have a hard time trying to connect to a website (*hosted by me ofc!*) check it here to know if it's a problem on my end or your end — Feel free to contact to report any bugs/weird behaviors
+    If you have connection issues related to a website hosted by me, Check here to know if the problem on my end or yours
   navbar:
     - title: Status
       href: /
+    - title: GitHub
+      href: https://github.com/EsmailELBoBDev2/upptime
     - title: Donate
       href: https://donate.esmailelbob.xyz/
 notifications:
