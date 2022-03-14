@@ -135,8 +135,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/EsmailELBoBDev2/upptime
+    - title: Source code
+      href: https://git.esmailelbob.xyz/esmail/upptime
     - title: Donate
       href: https://donate.esmailelbob.xyz/
 notifications:
