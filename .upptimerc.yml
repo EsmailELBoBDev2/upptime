@@ -115,7 +115,7 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: Pastefy - https://pastefy.esmailelbob.xyz
+  - name: Pastefy
     url: $PASTEFY
     maxResponseTime: 10000
     expectedStatusCodes:
