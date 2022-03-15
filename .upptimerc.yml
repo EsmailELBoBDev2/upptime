@@ -85,6 +85,11 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: ProxiTok - https://proxitok.esmailelbob.xyz/
+    url: https://proxitok.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: Pixelfed
     url: $PIXELFED
     maxResponseTime: 10000
