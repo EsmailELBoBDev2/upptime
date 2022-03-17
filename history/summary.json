@@ -379,19 +379,19 @@
     "url": "https://proxitok.esmailelbob.xyz/",
     "icon": "https://favicons.githubusercontent.com/proxitok.esmailelbob.xyz",
     "slug": "proxi-tok-https-proxitok-esmailelbob-xyz",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 510,
-    "timeDay": 288,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 447,
+    "timeDay": 257,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2022-03-17": 0
+      "2022-03-17": 6
     }
   },
   {
