@@ -90,7 +90,7 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: SimplyTranslate
+  - name: SimplyTranslate - https://simplytranslate.esmailelbob.xyz/
     url: https://simplytranslate.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
