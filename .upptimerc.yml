@@ -90,6 +90,11 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: SimplyTranslate
+    url: https://simplytranslate.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: Pixelfed
     url: $PIXELFED
     maxResponseTime: 10000
@@ -117,11 +122,6 @@ sites:
       - 200
   - name: Pi-Hole
     url: $PIHOLE
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-  - name: Pastefy
-    url: $PASTEFY
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
