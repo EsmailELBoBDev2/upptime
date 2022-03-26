@@ -95,6 +95,16 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: SimpleerTube - https://simpleertube.esmailelbob.xyz/
+    url: https://simpleertube.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+  - name: PornInvidious - https://porninvidious.esmailelbob.xyz/
+    url: https://porninvidious.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: Pixelfed
     url: $PIXELFED
     maxResponseTime: 10000
