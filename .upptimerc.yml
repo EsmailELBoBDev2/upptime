@@ -110,8 +110,8 @@ sites:
     url: mc.esmailelbob.xyz
     port: 25565
     maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
+#    expectedStatusCodes:
+#      - 200
   - name: Pixelfed
     url: $PIXELFED
     maxResponseTime: 10000
