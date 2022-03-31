@@ -105,6 +105,13 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: Minecraft Server - https://mc.esmailelbob.xyz
+    check: "tcp-ping"
+    url: https://bibliogram.esmailelbob.xyz
+    port: 25565
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: Pixelfed
     url: $PIXELFED
     maxResponseTime: 10000
