@@ -10,11 +10,6 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: Bibliogram - https://bibliogram.esmailelbob.xyz
-    url: https://bibliogram.esmailelbob.xyz
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
   - name: Libreddit - https://libreddit.esmailelbob.xyz
     url: https://libreddit.esmailelbob.xyz
     maxResponseTime: 10000
@@ -25,11 +20,6 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: RSS-Bridge - https://rss-bridge.esmailelbob.xyz
-    url: https://rss-bridge.esmailelbob.xyz
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
   - name: Searx - https://searx.esmailelbob.xyz
     url: https://searx.esmailelbob.xyz
     maxResponseTime: 10000
@@ -37,21 +27,6 @@ sites:
       - 200
   - name: Nitter - https://nitter.esmailelbob.xyz
     url: https://nitter.esmailelbob.xyz
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-  - name: Lingva - https://lingva.esmailelbob.xyz
-    url: https://lingva.esmailelbob.xyz
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
-  - name: Whoogle - https://whoogle.esmailelbob.xyz
-    url: http://whoogle.esmailelbob.xyz/home
-    maxResponseTime: 10000
-    expectedStatusCodes:
-      - 301
-  - name: Libre Translate - https://libretranslate.esmailelbob.xyz
-    url: https://libretranslate.esmailelbob.xyz
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
