@@ -138,11 +138,9 @@ status-website:
       href: https://donate.esmailelbob.xyz/
 notifications:
   NOTIFICATION_EMAIL: true
-  NOTIFICATION_EMAIL_MAILGUN: true
-  NOTIFICATION_EMAIL_MAILGUN_API_KEY: $MAILGUNAPI
-  NOTIFICATION_EMAIL_MAILGUN_DOMAIN_NAME: sandbox91e9b3121f784c129f737e1570bed99d.mailgun.org
-  NOTIFICATION_EMAIL_FROM: postmaster@sandbox91e9b3121f784c129f737e1570bed99d.mailgun.org
-  NOTIFICATION_EMAIL_TO: git@esmailelbob.xyz
-  
+  NOTIFICATION_EMAIL_SMTP: true
+  NOTIFICATION_EMAIL_SMTP_PORT: 587
+  NOTIFICATION_EMAIL_SMTP_HOST: hostname  
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
