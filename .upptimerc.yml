@@ -137,10 +137,7 @@ status-website:
     - title: Donate
       href: https://donate.esmailelbob.xyz/
 notifications:
-  NOTIFICATION_EMAIL: true
-  NOTIFICATION_EMAIL_SMTP: true
-  NOTIFICATION_EMAIL_SMTP_PORT: 587
-  NOTIFICATION_EMAIL_SMTP_HOST: hostname  
+    - 
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
