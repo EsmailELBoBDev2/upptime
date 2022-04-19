@@ -136,15 +136,14 @@ status-website:
       href: https://git.esmailelbob.xyz/esmail/upptime
     - title: Donate
       href: https://donate.esmailelbob.xyz/
-notifications:
-    NOTIFICATION_EMAIL: true
-    NOTIFICATION_EMAIL_SMTP: true
-    NOTIFICATION_EMAIL_FROM: esmail@esmailelbob.xyz
-    NOTIFICATION_EMAIL_TO: esmail@esmailelbob.xyz
-    NOTIFICATION_EMAIL_SMTP_PORT: 587
-    NOTIFICATION_EMAIL_SMTP_HOST: mail.esmailelbob.xyz
-    NOTIFICATION_EMAIL_SMTP_USERNAME: ${{ secrets.NOTIFICATION_EMAIL_USERNAME }}
-    NOTIFICATION_EMAIL_SMTP_PASSWORD: ${{ secrets.NOTIFICATION_EMAIL_PASSWORD }}
+  NOTIFICATION_EMAIL: true
+  NOTIFICATION_EMAIL_SMTP: true
+  NOTIFICATION_EMAIL_FROM: esmail@esmailelbob.xyz
+  NOTIFICATION_EMAIL_TO: esmail@esmailelbob.xyz
+  NOTIFICATION_EMAIL_SMTP_PORT: 587
+  NOTIFICATION_EMAIL_SMTP_HOST: mail.esmailelbob.xyz
+  NOTIFICATION_EMAIL_SMTP_USERNAME: ${{ secrets.NOTIFICATION_EMAIL_USERNAME }}
+  NOTIFICATION_EMAIL_SMTP_PASSWORD: ${{ secrets.NOTIFICATION_EMAIL_PASSWORD }}
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
