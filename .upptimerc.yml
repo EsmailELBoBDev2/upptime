@@ -130,7 +130,7 @@ status-website:
   introMessage: |
     If you have connection issues related to a website hosted by me, Check here to know if the problem on my end or yours
     ```
-    ———————————No site up/down?———————————
+    ———————————No major outage?———————————
     ⠀⣞⢽⢪⢣⢣⢣⢫⡺⡵⣝⡮⣗⢷⢽⢽⢽⣮⡷⡽⣜⣜⢮⢺⣜⢷⢽⢝⡽⣝
     ⠸⡸⠜⠕⠕⠁⢁⢇⢏⢽⢺⣪⡳⡝⣎⣏⢯⢞⡿⣟⣷⣳⢯⡷⣽⢽⢯⣳⣫⠇
     ⠀⠀⢀⢀⢄⢬⢪⡪⡎⣆⡈⠚⠜⠕⠇⠗⠝⢕⢯⢫⣞⣯⣿⣻⡽⣏⢗⣗⠏⠀
@@ -146,13 +146,13 @@ status-website:
     ⠀⠀⠀⠀⠁⠇⠡⠩⡫⢿⣝⡻⡮⣒⢽⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
     —————————————————————————————
     ```
-navbar:
-  - title: Status
-    href: /
-  - title: Source code
-    href: https://git.esmailelbob.xyz/esmail/upptime
-  - title: Donate
-    href: https://donate.esmailelbob.xyz/
-    
+  navbar:
+    - title: Status
+      href: /
+    - title: Source code
+      href: https://git.esmailelbob.xyz/esmail/upptime
+    - title: Donate
+      href: https://donate.esmailelbob.xyz/
+      
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
