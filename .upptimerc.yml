@@ -146,13 +146,13 @@ status-website:
     ⠀⠀⠀⠀⠁⠇⠡⠩⡫⢿⣝⡻⡮⣒⢽⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
     —————————————————————————————
 ```
-  navbar:
-    - title: Status
-      href: /
-    - title: Source code
-      href: https://git.esmailelbob.xyz/esmail/upptime
-    - title: Donate
-      href: https://donate.esmailelbob.xyz/
+navbar:
+  - title: Status
+    href: /
+  - title: Source code
+    href: https://git.esmailelbob.xyz/esmail/upptime
+  - title: Donate
+    href: https://donate.esmailelbob.xyz/
     
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
