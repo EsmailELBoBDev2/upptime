@@ -80,6 +80,11 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: WikiLess - https://wikiless.esmailelbob.xyz/
+    url: https://wikiless.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: Minecraft Server - mc.esmailelbob.xyz
     check: "tcp-ping"
     url: mc.esmailelbob.xyz
@@ -128,7 +133,6 @@ status-website:
   name: Status Page
   introTitle: "**Status Page**"
   introMessage: |
-    If you have connection issues related to a website hosted by me, Check it here to know if it's problem on my end or yours
     ```
     ———————————No major outage?———————————
     ⠀⣞⢽⢪⢣⢣⢣⢫⡺⡵⣝⡮⣗⢷⢽⢽⢽⣮⡷⡽⣜⣜⢮⢺⣜⢷⢽⢝⡽⣝
