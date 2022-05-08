@@ -122,6 +122,11 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: Jellyfin
+    url: $JELLYFIN
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
 
 status-website:
   theme: night
