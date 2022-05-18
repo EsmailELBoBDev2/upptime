@@ -85,6 +85,11 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: BeatBump - https://beatbump.esmailelbob.xyz/
+    url: https://beatbump.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: Minecraft Server - mc.esmailelbob.xyz
     check: "tcp-ping"
     url: mc.esmailelbob.xyz
