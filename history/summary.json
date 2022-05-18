@@ -484,9 +484,9 @@
     "slug": "minecraft-server-mc-esmailelbob-xyz",
     "status": "down",
     "uptime": "98.16%",
-    "uptimeDay": "11.17%",
-    "uptimeWeek": "87.31%",
-    "uptimeMonth": "97.08%",
+    "uptimeDay": "10.73%",
+    "uptimeWeek": "87.25%",
+    "uptimeMonth": "97.07%",
     "uptimeYear": "98.16%",
     "time": 0,
     "timeDay": 0,
@@ -494,7 +494,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-18": 1279
+      "2022-05-18": 1286
     }
   },
   {
@@ -554,19 +554,19 @@
     "url": "$SNIKKET",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "snikket",
-    "status": "down",
+    "status": "up",
     "uptime": "95.61%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "89.90%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "89.89%",
     "uptimeYear": "95.61%",
     "time": 298,
-    "timeDay": 286,
-    "timeWeek": 378,
+    "timeDay": 274,
+    "timeWeek": 374,
     "timeMonth": 291,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2022-05-18": 2,
+      "2022-05-18": 6,
       "2022-05-17": 34,
       "2022-05-16": 38,
       "2022-05-15": 57,
