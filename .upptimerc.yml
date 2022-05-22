@@ -56,7 +56,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Reddit Top RSS - rss-reddit.esmailelbob.xyz
-    url: https://rss-reddit.esmailelbob.xyz/?subreddit=memes/
+    url: https://rss-reddit.esmailelbob.xyz/?subreddit=memes
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
@@ -128,17 +128,17 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Plex - plex.esmailelbob.xyz
-    url: https://plex.esmailelbob.xyz/
+    url: https://plex.esmailelbob.xyz/web/index.html
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: Jellyfin - jellyfin.esmailelbob.xyz
-    url: https://jellyfin.esmailelbob.xyz/
+    url: https://jellyfin.esmailelbob.xyz/web/index.html
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
   - name: Emby - emby.esmailelbob.xyz
-    url: https://emby.esmailelbob.xyz/
+    url: https://emby.esmailelbob.xyz/web/index.html
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
