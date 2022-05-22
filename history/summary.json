@@ -313,7 +313,7 @@
     "status": "down",
     "uptime": "91.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "36.38%",
+    "uptimeWeek": "36.37%",
     "uptimeMonth": "85.36%",
     "uptimeYear": "91.43%",
     "time": 0,
@@ -322,7 +322,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-22": 800,
+      "2022-05-22": 801,
       "2022-05-21": 1440,
       "2022-05-20": 1440,
       "2022-05-19": 1440,
@@ -536,7 +536,7 @@
     "time": 157,
     "timeDay": 96,
     "timeWeek": 155,
-    "timeMonth": 157,
+    "timeMonth": 158,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2022-04-05": 21,
@@ -549,19 +549,17 @@
     "icon": "https://favicons.githubusercontent.com/plex.esmailelbob.xyz",
     "slug": "plex-plex-esmailelbob-xyz",
     "status": "up",
-    "uptime": "7.48%",
-    "uptimeDay": "7.48%",
-    "uptimeWeek": "7.48%",
-    "uptimeMonth": "7.48%",
-    "uptimeYear": "7.48%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1745,
     "timeDay": 1745,
     "timeWeek": 1745,
     "timeMonth": 1745,
     "timeYear": 1745,
-    "dailyMinutesDown": {
-      "2022-05-22": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jellyfin - jellyfin.esmailelbob.xyz",
