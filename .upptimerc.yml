@@ -5,87 +5,87 @@ assignees: # Users to assign downtime issues (optional)
   - EsmailELBoBDev2
 
 sites:
-  - name: Main site - https://esmailelbob.xyz
-    url: https://esmailelbob.xyz
+  - name: Main site - esmailelbob.xyz
+    url: https://esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: Libreddit - https://libreddit.esmailelbob.xyz
-    url: https://libreddit.esmailelbob.xyz
+  - name: Libreddit - libreddit.esmailelbob.xyz
+    url: https://libreddit.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: Invidious - https://invidious.esmailelbob.xyz
-    url: https://invidious.esmailelbob.xyz
+  - name: Invidious - invidious.esmailelbob.xyz
+    url: https://invidious.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: Searx - https://searx.esmailelbob.xyz
-    url: https://searx.esmailelbob.xyz
+  - name: Searx - searx.esmailelbob.xyz
+    url: https://searx.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: Nitter - https://nitter.esmailelbob.xyz
-    url: https://nitter.esmailelbob.xyz
+  - name: Nitter - nitter.esmailelbob.xyz
+    url: https://nitter.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: rimgo - https://rimgo.esmailelbob.xyz
-    url: https://rimgo.esmailelbob.xyz
+  - name: rimgo - rimgo.esmailelbob.xyz
+    url: https://rimgo.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: Scribe - https://scribe.esmailelbob.xyz/
+  - name: Scribe - scribe.esmailelbob.xyz/
     url: https://scribe.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: WriteFreely - https://blog.esmailelbob.xyz
-    url: https://blog.esmailelbob.xyz
+  - name: WriteFreely - blog.esmailelbob.xyz
+    url: https://blog.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: Gitea - https://git.esmailelbob.xyz
-    url: https://git.esmailelbob.xyz
+  - name: Gitea - git.esmailelbob.xyz
+    url: https://git.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: Librarian - https://librarian.esmailelbob.xyz
-    url: https://librarian.esmailelbob.xyz
+  - name: Librarian - librarian.esmailelbob.xyz
+    url: https://librarian.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: Reddit Top RSS - https://rss-reddit.esmailelbob.xyz/
-    url: https://rss-reddit.esmailelbob.xyz/?subreddit=memes
+  - name: Reddit Top RSS - rss-reddit.esmailelbob.xyz
+    url: https://rss-reddit.esmailelbob.xyz/?subreddit=memes/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: ProxiTok - https://proxitok.esmailelbob.xyz/
+  - name: ProxiTok - proxitok.esmailelbob.xyz
     url: https://proxitok.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: SimplyTranslate - https://simplytranslate.esmailelbob.xyz/
+  - name: SimplyTranslate - simplytranslate.esmailelbob.xyz
     url: https://simplytranslate.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: SimpleerTube - https://simpleertube.esmailelbob.xyz/
+  - name: SimpleerTube - simpleertube.esmailelbob.xyz
     url: https://simpleertube.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: PornInvidious - https://porninvidious.esmailelbob.xyz/
+  - name: PornInvidious - porninvidious.esmailelbob.xyz
     url: https://porninvidious.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: WikiLess - https://wikiless.esmailelbob.xyz/
+  - name: WikiLess - wikiless.esmailelbob.xyz
     url: https://wikiless.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: BeatBump - https://beatbump.esmailelbob.xyz/
+  - name: BeatBump - beatbump.esmailelbob.xyz
     url: https://beatbump.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
@@ -127,11 +127,22 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
-  - name: Jellyfin
-    url: $JELLYFIN
+  - name: Plex - plex.esmailelbob.xyz
+    url: https://plex.esmailelbob.xyz/
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: Jellyfin - jellyfin.esmailelbob.xyz
+    url: https://jellyfin.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+  - name: Emby - emby.esmailelbob.xyz
+    url: https://emby.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+
 
 status-website:
   theme: night
