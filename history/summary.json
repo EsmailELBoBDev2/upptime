@@ -313,7 +313,7 @@
     "status": "down",
     "uptime": "91.45%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "36.51%",
+    "uptimeWeek": "36.50%",
     "uptimeMonth": "85.39%",
     "uptimeYear": "91.45%",
     "time": 0,
@@ -322,7 +322,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-22": 787,
+      "2022-05-22": 788,
       "2022-05-21": 1440,
       "2022-05-20": 1440,
       "2022-05-19": 1440,
@@ -549,18 +549,18 @@
     "icon": "https://favicons.githubusercontent.com/plex.esmailelbob.xyz",
     "slug": "plex-plex-esmailelbob-xyz",
     "status": "down",
-    "uptime": "4.95%",
-    "uptimeDay": "4.95%",
-    "uptimeWeek": "4.95%",
-    "uptimeMonth": "4.95%",
-    "uptimeYear": "4.95%",
+    "uptime": "3.49%",
+    "uptimeDay": "3.49%",
+    "uptimeWeek": "3.49%",
+    "uptimeMonth": "3.49%",
+    "uptimeYear": "3.49%",
     "time": 3155,
     "timeDay": 3155,
     "timeWeek": 3155,
     "timeMonth": 3155,
     "timeYear": 3155,
     "dailyMinutesDown": {
-      "2022-05-22": 1
+      "2022-05-22": 2
     }
   },
   {
