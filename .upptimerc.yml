@@ -95,6 +95,11 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: Piped - piped.esmailelbob.xyz
+    url: http://piped.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: Minecraft Server - mc.esmailelbob.xyz
     check: "tcp-ping"
     url: mc.esmailelbob.xyz
