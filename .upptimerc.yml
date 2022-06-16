@@ -178,6 +178,8 @@ status-website:
       href: https://git.esmailelbob.xyz/esmail/upptime
     - title: Donate
       href: https://donate.esmailelbob.xyz/
-      
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org) -- Check out [Privacy Policy & Terms of service](https://github.com/EsmailELBoBDev2/upptime/blob/master/pri-tos.md)
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
