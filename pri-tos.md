@@ -1,7 +1,6 @@
 ## Privacy Policy 
-* I use stock log settings in nginx (*IP and other data are stored, yes*).
-* Logs are kept for 2 days to audit if there any *funny* activities like [DDoS](https://user-images.githubusercontent.com/28893833/174955879-fc73a66e-90c4-442d-91c8-9af36dcb84a9.png)
- attacks and for some *funny* error logs.
+* IPs are anonymized.
+* Logs are kept for 24H (*1 day*).
 * Nothing is shared with anybody, I do not even check logs unless for big events like errors.
 * I do not guarantee your data security or privacy :-P, at the end it's data center hosted by another company and I'm human and nothing is really 100% secure. 
 ___
