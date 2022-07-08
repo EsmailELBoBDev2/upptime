@@ -7,5 +7,3 @@ ___
 ## Terms of service
 * Do not use my services in malicious way(s)
 * Do not purposely do malicious things to my server(s)
-* Do not use my services if you are an Israeli and/or support Israel
-* Do not use my services if you are part of LGBTQ+ and/or support LGBTQ+
