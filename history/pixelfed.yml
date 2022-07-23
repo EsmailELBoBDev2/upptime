@@ -1,7 +1,7 @@
 url: $PIXELFED
-status: up
-code: 200
-responseTime: 515
-lastUpdated: 2022-07-23T19:12:09.902Z
+status: down
+code: 502
+responseTime: 86
+lastUpdated: 2022-07-23T19:24:26.632Z
 startTime: Sun Jan 30 2022 19:45:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
