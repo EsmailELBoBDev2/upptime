@@ -100,6 +100,16 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: Quetre - quetre.esmailelbob.xyz
+    url: http://quetre.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+  - name: LibreMDB - libremdb.esmailelbob.xyz
+    url: http://libremdb.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: Minecraft Server - mc.esmailelbob.xyz
     check: "tcp-ping"
     url: mc.esmailelbob.xyz
