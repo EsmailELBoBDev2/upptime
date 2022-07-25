@@ -1,7 +1,7 @@
 url: http://piped.esmailelbob.xyz/
-status: up
-code: 200
-responseTime: 122
-lastUpdated: 2022-07-24T23:21:52.556Z
+status: down
+code: 502
+responseTime: 523
+lastUpdated: 2022-07-25T01:00:54.358Z
 startTime: Mon Jun 13 2022 11:29:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
