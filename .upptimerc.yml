@@ -143,7 +143,9 @@ sites:
     expectedStatusCodes:
       - 200
   - name: RustDesk
+    check: "tcp-ping"
     url: $RUSTDESK
+    port: 21117
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
