@@ -147,8 +147,8 @@ sites:
     url: $RUSTDESK
     port: 21117
     maxResponseTime: 10000
-    expectedStatusCodes:
-      - 200
+#   expectedStatusCodes:
+#     - 200
   - name: Pi-Hole
     url: $PIHOLE
     maxResponseTime: 10000
