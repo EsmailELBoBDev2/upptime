@@ -142,6 +142,11 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: RustDesk
+    url: $RUSTDESK
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: Pi-Hole
     url: $PIHOLE
     maxResponseTime: 10000
