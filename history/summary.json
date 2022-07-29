@@ -48,7 +48,7 @@
     "slug": "invidious-invidious-esmailelbob-xyz",
     "status": "up",
     "uptime": "94.06%",
-    "uptimeDay": "85.57%",
+    "uptimeDay": "85.65%",
     "uptimeWeek": "82.65%",
     "uptimeMonth": "94.60%",
     "uptimeYear": "94.06%",
@@ -306,7 +306,7 @@
     "uptime": "85.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.80%",
+    "uptimeMonth": "79.81%",
     "uptimeYear": "85.72%",
     "time": 317,
     "timeDay": 284,
@@ -544,7 +544,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-29": 1227,
+      "2022-07-29": 1229,
       "2022-07-28": 1440,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
@@ -627,7 +627,7 @@
     "status": "up",
     "uptime": "98.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.10%",
+    "uptimeWeek": "75.11%",
     "uptimeMonth": "93.21%",
     "uptimeYear": "98.59%",
     "time": 307,
@@ -688,7 +688,7 @@
     "status": "up",
     "uptime": "97.33%",
     "uptimeDay": "98.80%",
-    "uptimeWeek": "99.60%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "97.33%",
     "time": 300,
@@ -844,7 +844,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-29": 1228,
+      "2022-07-29": 1229,
       "2022-07-28": 1440,
       "2022-07-27": 1427
     }
