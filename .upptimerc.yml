@@ -110,6 +110,11 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: Hyperpipe - hyperpipe.esmailelbob.xyz
+    url: http://hyperpipe.esmailelbob.xyz/
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: Minecraft Server - mc.esmailelbob.xyz
     check: "tcp-ping"
     url: mc.esmailelbob.xyz
