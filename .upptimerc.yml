@@ -147,6 +147,11 @@ sites:
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
+  - name: Woodpecker
+    url: $WOODPECKER
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
   - name: RustDesk
     check: "tcp-ping"
     url: $RUSTDESK
